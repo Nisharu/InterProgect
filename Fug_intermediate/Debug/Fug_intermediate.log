@@ -1,2 +1,6 @@
 ﻿  Fug_intermediate.cpp
+D:\Game Dev Courses\Fugit\Fugtermediate\Fug_intermediate\Fug_intermediate.cpp(45,21): warning C4018: '<': signed/unsigned mismatch
+D:\Game Dev Courses\Fugit\Fugtermediate\Fug_intermediate\Fug_intermediate.cpp(58,21): warning C4018: '<': signed/unsigned mismatch
+D:\Game Dev Courses\Fugit\Fugtermediate\Fug_intermediate\Fug_intermediate.cpp(71,21): warning C4018: '<': signed/unsigned mismatch
+D:\Game Dev Courses\Fugit\Fugtermediate\Fug_intermediate\Fug_intermediate.cpp(89,21): warning C4018: '<': signed/unsigned mismatch
   Fug_intermediate.vcxproj -> D:\Game Dev Courses\Fugit\Fugtermediate\Debug\Fug_intermediate.exe
