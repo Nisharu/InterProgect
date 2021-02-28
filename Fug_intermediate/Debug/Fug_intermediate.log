@@ -1,11 +1,15 @@
 ﻿  Fug_intermediate.cpp
-D:\Game Dev Courses\Fugit\Fugtermediate\Fug_intermediate\Fug_intermediate.cpp(59,21): warning C4018: '<': signed/unsigned mismatch
-D:\Game Dev Courses\Fugit\Fugtermediate\Fug_intermediate\Fug_intermediate.cpp(72,21): warning C4018: '<': signed/unsigned mismatch
-D:\Game Dev Courses\Fugit\Fugtermediate\Fug_intermediate\Fug_intermediate.cpp(85,21): warning C4018: '<': signed/unsigned mismatch
-D:\Game Dev Courses\Fugit\Fugtermediate\Fug_intermediate\Fug_intermediate.cpp(103,21): warning C4018: '<': signed/unsigned mismatch
-D:\Game Dev Courses\Fugit\Fugtermediate\Fug_intermediate\Fug_intermediate.cpp(126,21): warning C4018: '<': signed/unsigned mismatch
-D:\Game Dev Courses\Fugit\Fugtermediate\Fug_intermediate\Fug_intermediate.cpp(139,21): warning C4018: '<': signed/unsigned mismatch
-D:\Game Dev Courses\Fugit\Fugtermediate\Fug_intermediate\Fug_intermediate.cpp(152,21): warning C4018: '<': signed/unsigned mismatch
-D:\Game Dev Courses\Fugit\Fugtermediate\Fug_intermediate\Fug_intermediate.cpp(170,21): warning C4018: '<': signed/unsigned mismatch
-D:\Game Dev Courses\Fugit\Fugtermediate\Fug_intermediate\Fug_intermediate.cpp(277,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  Fug_intermediate.vcxproj -> D:\Game Dev Courses\Fugit\Fugtermediate\Debug\Fug_intermediate.exe
+D:\Game Dev Courses\Fugit\Fugtermediate\Fug_intermediate\Fug_intermediate.cpp(62,21): warning C4018: '<': signed/unsigned mismatch
+D:\Game Dev Courses\Fugit\Fugtermediate\Fug_intermediate\Fug_intermediate.cpp(75,21): warning C4018: '<': signed/unsigned mismatch
+D:\Game Dev Courses\Fugit\Fugtermediate\Fug_intermediate\Fug_intermediate.cpp(88,21): warning C4018: '<': signed/unsigned mismatch
+D:\Game Dev Courses\Fugit\Fugtermediate\Fug_intermediate\Fug_intermediate.cpp(112,21): warning C4018: '<': signed/unsigned mismatch
+D:\Game Dev Courses\Fugit\Fugtermediate\Fug_intermediate\Fug_intermediate.cpp(135,21): warning C4018: '<': signed/unsigned mismatch
+D:\Game Dev Courses\Fugit\Fugtermediate\Fug_intermediate\Fug_intermediate.cpp(148,21): warning C4018: '<': signed/unsigned mismatch
+D:\Game Dev Courses\Fugit\Fugtermediate\Fug_intermediate\Fug_intermediate.cpp(161,21): warning C4018: '<': signed/unsigned mismatch
+D:\Game Dev Courses\Fugit\Fugtermediate\Fug_intermediate\Fug_intermediate.cpp(179,21): warning C4018: '<': signed/unsigned mismatch
+D:\Game Dev Courses\Fugit\Fugtermediate\Fug_intermediate\Fug_intermediate.cpp(273,16): error C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Game Dev Courses\Fugit\Fugtermediate\Fug_intermediate\Fug_intermediate.cpp(281,21): warning C4018: '<': signed/unsigned mismatch
+D:\Game Dev Courses\Fugit\Fugtermediate\Fug_intermediate\Fug_intermediate.cpp(286,21): warning C4018: '<': signed/unsigned mismatch
+D:\Game Dev Courses\Fugit\Fugtermediate\Fug_intermediate\Fug_intermediate.cpp(325,21): warning C4018: '<': signed/unsigned mismatch
+D:\Game Dev Courses\Fugit\Fugtermediate\Fug_intermediate\Fug_intermediate.cpp(329,22): warning C4018: '<': signed/unsigned mismatch
+D:\Game Dev Courses\Fugit\Fugtermediate\Fug_intermediate\Fug_intermediate.cpp(378,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
