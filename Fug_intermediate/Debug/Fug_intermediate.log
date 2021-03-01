@@ -7,9 +7,9 @@ D:\Game Dev Courses\Fugit\Fugtermediate\Fug_intermediate\Fug_intermediate.cpp(13
 D:\Game Dev Courses\Fugit\Fugtermediate\Fug_intermediate\Fug_intermediate.cpp(148,21): warning C4018: '<': signed/unsigned mismatch
 D:\Game Dev Courses\Fugit\Fugtermediate\Fug_intermediate\Fug_intermediate.cpp(161,21): warning C4018: '<': signed/unsigned mismatch
 D:\Game Dev Courses\Fugit\Fugtermediate\Fug_intermediate\Fug_intermediate.cpp(179,21): warning C4018: '<': signed/unsigned mismatch
-D:\Game Dev Courses\Fugit\Fugtermediate\Fug_intermediate\Fug_intermediate.cpp(273,16): error C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-D:\Game Dev Courses\Fugit\Fugtermediate\Fug_intermediate\Fug_intermediate.cpp(281,21): warning C4018: '<': signed/unsigned mismatch
-D:\Game Dev Courses\Fugit\Fugtermediate\Fug_intermediate\Fug_intermediate.cpp(286,21): warning C4018: '<': signed/unsigned mismatch
-D:\Game Dev Courses\Fugit\Fugtermediate\Fug_intermediate\Fug_intermediate.cpp(325,21): warning C4018: '<': signed/unsigned mismatch
-D:\Game Dev Courses\Fugit\Fugtermediate\Fug_intermediate\Fug_intermediate.cpp(329,22): warning C4018: '<': signed/unsigned mismatch
+D:\Game Dev Courses\Fugit\Fugtermediate\Fug_intermediate\Fug_intermediate.cpp(282,21): warning C4018: '<': signed/unsigned mismatch
+D:\Game Dev Courses\Fugit\Fugtermediate\Fug_intermediate\Fug_intermediate.cpp(287,21): warning C4018: '<': signed/unsigned mismatch
+D:\Game Dev Courses\Fugit\Fugtermediate\Fug_intermediate\Fug_intermediate.cpp(326,21): warning C4018: '<': signed/unsigned mismatch
+D:\Game Dev Courses\Fugit\Fugtermediate\Fug_intermediate\Fug_intermediate.cpp(330,22): warning C4018: '<': signed/unsigned mismatch
 D:\Game Dev Courses\Fugit\Fugtermediate\Fug_intermediate\Fug_intermediate.cpp(378,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Fug_intermediate.vcxproj -> D:\Game Dev Courses\Fugit\Fugtermediate\Debug\Fug_intermediate.exe

@@ -5,8 +5,7 @@
 #include <ctime>
 #include <numeric>
 #include <chrono>
-#include <iomanip>
-#include <time.h>
+
 using namespace std;
 
 class Hero
@@ -269,8 +268,9 @@ public:
 	Session(Team _team_one, Team _team_two)
 		: team_one(_team_one), team_two(_team_two)
 	{
-		//time_t curr_time = time(0);
-		//start_time = ctime(&curr_time);
+		auto start = chrono::system_clock::now();
+		time_t time = chrono::system_clock::to_time_t(start);
+		start_time = ctime(&time);
 		winner = CalculateWinner(_team_one, _team_two);
 	}
 
@@ -337,7 +337,6 @@ public:
 			GameSessions.push_back(temp);
 		}
 
-		teams.GetTeamInfo(players, heroes);
 	}
 	void ShowSessions()
 	{
@@ -381,9 +380,11 @@ int main()
 	HeroManager heroes;
 	InitializeUnits(players, heroes);
 	GameManager game_manager(players, heroes);
-	game_manager.PerformGameSession(players);
-	game_manager.PerformGameSession(players);
-	game_manager.PerformGameSession(players);
+
+	for (int i = 0; i < 5; i++)
+	{
+		game_manager.PerformGameSession(players);
+	}
 	game_manager.ShowSessions();
 
 	return 0;
